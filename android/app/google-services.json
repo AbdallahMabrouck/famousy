@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "409146335471",
+    "project_id": "famousy-6bf4e",
+    "storage_bucket": "famousy-6bf4e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:409146335471:android:9a8ed53a4cc5b2c41b3b1a",
+        "android_client_info": {
+          "package_name": "com.mycompany.famousy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXEc0zrwAmDKR1nO8X9QSZBoBI2J5Xx8s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

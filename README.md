@@ -1,2 +1,7 @@
-# famousy
-A flutterflow app. Famousy is a marketplace mobile application for celebrities and fans
+# Famousy
+
+A new Flutter project.
+
+## Getting Started
+
+FlutterFlow projects are built to run on the Flutter _stable_ release.
